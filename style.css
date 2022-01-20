@@ -27,7 +27,7 @@ font faily{
 .btn{
     background-image: linear-gradient(180deg,#A4BC46,#85A019 );
     font-weight: 400;
-    padding: 10px 25px;
+    padding: 5px 15px;
     border-radius: 8px;
 }
 /* .custon-color{
