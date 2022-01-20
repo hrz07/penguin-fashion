@@ -17,11 +17,15 @@ font faily{
 .navbar{
     background: #FFFBF0;
 }
+.cloth-title{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(41, 40, 40);
+}
 .main-title{
     font-family: 'Bebas Neue', cursive;
 }
 .btn{
-    background-image: linear-gradient(90deg,#A4BC46,#85A019 );
+    background-image: linear-gradient(180deg,#A4BC46,#85A019 );
     font-weight: 400;
     padding: 10px 25px;
     border-radius: 8px;
@@ -31,4 +35,15 @@ font faily{
 } */
 .custom-orange{
     color: #FABE4C;
+}
+.card{
+    border: none;
+    box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.082);
+}
+.img-box{
+    background: rgb(238, 237, 237);
+    border-radius: 10px;
+}
+.img-box img{
+    max-width: 240px;
 }
